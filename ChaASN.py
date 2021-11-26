@@ -82,7 +82,7 @@ def print_banner():
  | |____| | | | (_| |/ ____ \ ____) | |\  |
   \_____|_| |_|\__,_/_/    \_\_____/|_| \_|
                                            
-__Author__: M78Sec_Dj4ng0   Version:0.1   Runtime:{}                               
+__Author__:    Version:0.1   Runtime:{}                               
         """.format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
     print(banner)
 
